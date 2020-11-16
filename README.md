@@ -9,4 +9,4 @@ Advisory for CVE-2020-28054 &amp; CVE-2020-XXXXX
 	+ No CVE number was released.
 	+ I cannot verify if this vulnerability is also affecting the newer IBM Spectrum Protect, so, good luck with that.
 
-### If interested, you can read more on: [https://voidsec.com/tivoli-madness](https://voidsec.com/tivoli-madness)
+### You can read more on: [https://voidsec.com/tivoli-madness](https://voidsec.com/tivoli-madness)
